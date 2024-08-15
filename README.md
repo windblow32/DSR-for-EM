@@ -1,1 +1,1 @@
-### Description-Similarity Rules: Towards Automatic Feature Engineering for Entity Matching, A Technical Report
+### Technical Report on “Description-Similarity Rules: Towards Flexible Feature Engineering for Entity Matching”
